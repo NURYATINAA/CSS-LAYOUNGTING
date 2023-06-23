@@ -1,0 +1,29 @@
+.contant: none;
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.body {
+    font: 16px/20px arial,sans,;
+    background-color: aquamarine;
+    color: aquamarine;
+}
+
+.container {
+    width: 950px;
+    background-color: aqua;
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+.header {
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.header a {
+    text-decoration: none;
+    color: blueviolet;
+}
+

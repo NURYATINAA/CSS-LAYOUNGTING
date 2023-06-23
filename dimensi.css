@@ -1,0 +1,22 @@
+.Nol {
+    width: 100px;
+    height: 200px;
+    background-color: gray;
+}
+
+.Satu {
+    width: 200px;
+    height: 200px;
+    background-color: greenyellow;
+
+}  
+.Dua  {
+    width: 100px;
+    background-color: aqua;
+}
+
+.Tiga {
+    width: 100px;
+    height: 100PX;
+    background-color: aqua;
+}
